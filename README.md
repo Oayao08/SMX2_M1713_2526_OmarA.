@@ -5,4 +5,4 @@
 - Hacer click en *Confirmación*
 - Click en *Aceptar
 ## Qué hace un *Commit*?
-Un commit **envia los cambios hechos en Codespace a la rama principal**. ==Cuando se hace un cambio nuevo, se pueden realizar más commit.==
+Un commit **envia los cambios hechos en Codespace a la rama principal**. == Cuando se hace un cambio nuevo, se pueden realizar más commit. ==

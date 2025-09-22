@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(173, 173, 175);
+}
+
+.titulo{
+    text-align: center;
+    font-family: Garamond;
+}
+
+.Introduccion{
+    background-color: orange;
+    font-family: Garamond;
+}
+.Desarrollo{
+    background-color: rgb(221, 205, 174);  
+    color: brown; 
+    font-family: Garamond;
+}
+.Explicacion{
+    background-color: blue;
+    color: white;
+    font-variant: normal;
+    font-family: Garamond;
+}
+
+.Imagen{
+    background-position: center;
+}
